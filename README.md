@@ -31,7 +31,7 @@ The data was then prepared for the neural network. We initially set the input la
 
 Diving deeper into the structure of this model, I used binary cross-entropy as the loss function, the Adam optimizer, and accuracy as the evaluation metric, as suggested in the starter code.
 
-Initially, our model achieved an accuracy of 72.63%. After a series of optimization attempts, I was unable to reach the 75% threshold, but the accuracy slightly improved to 72.73% by adding five hidden layers with 150, 80, 50, 50, and 10 neurons respectively, while keeping the same ReLU activation function and reducing the number of epochs to 20.
+Initially, our model achieved an accuracy of 72.63%. After a series of optimization attempts, I was unable to reach the 75% threshold, but the accuracy slightly improved to 72.73%(attempt #6) by adding five hidden layers with 150, 80, 50, 50, and 10 neurons respectively, while keeping the same ReLU activation function and reducing the number of epochs to 20.
 
 ##### Other attempts included:
 
